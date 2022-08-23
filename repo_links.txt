@@ -1,5 +1,5 @@
 python repo 1: 
-Key repo. with example of 1 to n analysis using bath mode in Allplan Bridge:  
+Key repo. with example of 1 to n analysis using batch mode in Allplan Bridge:  
 https://github.com/piotrowerko/neural_allplan_bridge
 
 
