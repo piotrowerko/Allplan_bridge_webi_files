@@ -1,1 +1,29 @@
-python repo 1: Neural Networks in load testing of typical bridges:  https://github.com/piotrowerko/neural_allplan_bridgepython repo 2:Generator of grillage FE models of typical bridges, with auto generation of influence surfaces:https://github.com/piotrowerko/grillage_bridgespython repo 3: NN backpropagation edu tutorial:https://github.com/piotrowerko/neural_network_edu_tutorialpython repo 4: linear (and polyn.) multivar. regression [pure python]:https://github.com/piotrowerko/pure_multivar_regression    python repo 5: simple scripts for 1D and 2D Gaussian Random field generation: https://github.com/piotrowerko/Gaussian_Random_Fields   python (SAGEMATH) repo 6: essence of FEA in the displacement approach - lecture: https://github.com/piotrowerko/FEM_PSS_sage_math
+python repo 1: 
+Key repo. with example of 1 to n analysis using bath mode in Allplan Bridge:  
+https://github.com/piotrowerko/neural_allplan_bridge
+
+
+python repo 2:
+Generator of grillage FE models of typical bridges, 
+with auto generation of influence surfaces:
+https://github.com/piotrowerko/grillage_bridges
+
+
+python repo 3: 
+NN backpropagation edu tutorial:
+https://github.com/piotrowerko/neural_network_edu_tutorial
+
+
+python repo 4: 
+linear (and polyn.) multivar. regression [pure python]:
+https://github.com/piotrowerko/pure_multivar_regression    
+
+
+python repo 5: 
+simple scripts for 1D and 2D Gaussian Random field generation: 
+https://github.com/piotrowerko/Gaussian_Random_Fields   
+
+
+python (SAGEMATH) repo 6: 
+essence of FEA in the displacement approach - lecture: 
+https://github.com/piotrowerko/FEM_PSS_sage_math
